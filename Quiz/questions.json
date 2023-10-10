@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "question": "What is 2 + 2?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "question": "What is 5 * 7?",
+      "options": ["35", "42", "25", "12"],
+      "answer": "35"
+    },
+    {
+      "question": "What is 10 - 3?",
+      "options": ["5", "7", "10", "3"],
+      "answer": "7"
+    },
+    {
+      "question": "What is 6 / 2?",
+      "options": ["3", "2", "6", "1"],
+      "answer": "3"
+    },
+    {
+      "question": "What is 8 squared?",
+      "options": ["64", "16", "4", "32"],
+      "answer": "64"
+    },
+    {
+      "question": "What is the square root of 49?",
+      "options": ["7", "5", "6", "8"],
+      "answer": "7"
+    },
+    {
+      "question": "What is 3 to the power of 4?",
+      "options": ["81", "12", "27", "64"],
+      "answer": "81"
+    },
+    {
+      "question": "What is 15 % 4?",
+      "options": ["3", "0", "1", "2"],
+      "answer": "3"
+    },
+    {
+      "question": "What is the result of 10 + 20 - 5 * 2?",
+      "options": ["20", "25", "30", "15"],
+      "answer": "30"
+    },
+    {
+      "question": "What is 7 + 3?",
+      "options": ["8", "9", "10", "11"],
+      "answer": "10"
+    },
+    {
+      "question": "What is 9 * 6?",
+      "options": ["45", "48", "54", "60"],
+      "answer": "54"
+    },
+    {
+      "question": "What is 12 / 4?",
+      "options": ["2", "3", "4", "6"],
+      "answer": "3"
+    },
+    {
+      "question": "What is 15 squared?",
+      "options": ["225", "225", "225", "225"],
+      "answer": "225"
+    },
+    {
+      "question": "What is the square root of 100?",
+      "options": ["5", "7", "10", "12"],
+      "answer": "10"
+    },
+    {
+      "question": "What is 2 to the power of 5?",
+      "options": ["16", "32", "64", "128"],
+      "answer": "32"
+    },
+    {
+      "question": "What is 27 % 6?",
+      "options": ["1", "2", "3", "0"],
+      "answer": "3"
+    },
+    {
+      "question": "What is 30 - 18?",
+      "options": ["6", "8", "10", "12"],
+      "answer": "12"
+    },
+    {
+      "question": "What is 17 + 28?",
+      "options": ["33", "45", "55", "71"],
+      "answer": "45"
+    },
+    {
+      "question": "What is 11 * 11?",
+      "options": ["111", "121", "131", "141"],
+      "answer": "121"
+    },
+    {
+      "question": "What is 8 + 7?",
+      "options": ["13", "14", "15", "16"],
+      "answer": "15"
+    },
+    {
+      "question": "What is 6 * 9?",
+      "options": ["48", "54", "63", "72"],
+      "answer": "54"
+    },
+    {
+      "question": "What is 24 / 3?",
+      "options": ["4", "6", "8", "12"],
+      "answer": "8"
+    },
+    {
+      "question": "What is 10 squared?",
+      "options": ["80", "90", "100", "110"],
+      "answer": "100"
+    },
+    {
+      "question": "What is the square root of 144?",
+      "options": ["10", "11", "12", "13"],
+      "answer": "12"
+    },
+    {
+      "question": "What is 2 to the power of 7?",
+      "options": ["64", "128", "256", "512"],
+      "answer": "128"
+    },
+    {
+      "question": "What is 28 % 5?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "3"
+    },
+    {
+      "question": "What is 40 - 25?",
+      "options": ["10", "12", "15", "20"],
+      "answer": "15"
+    },
+    {
+      "question": "What is 19 + 37?",
+      "options": ["46", "56", "66", "76"],
+      "answer": "56"
+    },
+    {
+      "question": "What is 13 * 8?",
+      "options": ["96", "104", "112", "120"],
+      "answer": "104"
+    },
+    {
+      "question": "What is 9 + 6?",
+      "options": ["13", "14", "15", "16"],
+      "answer": "15"
+    },
+    {
+      "question": "What is 7 * 8?",
+      "options": ["48", "54", "63", "56"],
+      "answer": "56"
+    },
+    {
+      "question": "What is 32 / 4?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8"
+    },
+    {
+      "question": "What is 11 squared?",
+      "options": ["110", "121", "132", "144"],
+      "answer": "121"
+    },
+    {
+      "question": "What is the square root of 169?",
+      "options": ["10", "11", "12", "13"],
+      "answer": "13"
+    },
+    {
+      "question": "What is 2 to the power of 8?",
+      "options": ["128", "256", "512", "1024"],
+      "answer": "256"
+    },
+    {
+      "question": "What is 42 % 7?",
+      "options": ["3", "4", "5", "6"],
+      "answer": "0"
+    },
+    {
+      "question": "What is 50 - 35?",
+      "options": ["10", "12", "15", "20"],
+      "answer": "15"
+    },
+    {
+      "question": "What is 29 + 48?",
+      "options": ["66", "77", "87", "97"],
+      "answer": "77"
+    },
+    {
+      "question": "What is 14 * 9?",
+      "options": ["116", "126", "136", "146"],
+      "answer": "126"
+    }
+  ]
+}
